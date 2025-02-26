@@ -124,6 +124,11 @@ header p {
   margin-bottom: 10px;
 }
 
+/* Important Texts */
+#important-text span {
+    color: #4CAF50;
+}
+
 /* Contact Section */
 #contact {
   background-color: #fff;
