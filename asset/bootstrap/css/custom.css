@@ -125,7 +125,7 @@ header p {
 }
 
 /* Important Texts */
-#important-text span {
+.important-text span {
     color: #4CAF50;
 }
 
